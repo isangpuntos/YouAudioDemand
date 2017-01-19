@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YouAudioDemand</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5615080352979741/9178311711</string>
+    <string name="tabimage">tabImage</string>
+    <string name="play_now">Play Now</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="view_playlist">Playlist</string>
+    <string name="view_playlist_menu">View Playlist</string>
+    <string name="play_this_list">Play this list</string>
+    <string name="delete_playlist">Delete Playlist</string>
+    <string name="cd_repeat">Repeat one or all</string>
+    <string name="cd_previous">Skip backwards</string>
+    <string name="cd_play">Play and pause</string>
+    <string name="cd_next">Skip forwards</string>
+</resources>

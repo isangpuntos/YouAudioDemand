@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "451472267291",
+    "firebase_url": "https://ytmusicplay-d5e93.firebaseio.com",
+    "project_id": "ytmusicplay-d5e93",
+    "storage_bucket": "ytmusicplay-d5e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451472267291:android:0bab239a97138698",
+        "android_client_info": {
+          "package_name": "com.example.kdvso.ytmusicplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451472267291-mjtrrrgkpfuculk6dtl1ml8ov070f8s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5i0jQLLp_0RgMFUNm4ncTWhfRLqPVhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451472267291:android:33cfe7bb52c85dfa",
+        "android_client_info": {
+          "package_name": "com.isang.puntos.youaudiodemand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451472267291-mjtrrrgkpfuculk6dtl1ml8ov070f8s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR5i0jQLLp_0RgMFUNm4ncTWhfRLqPVhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
